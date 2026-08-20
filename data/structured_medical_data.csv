@@ -1,0 +1,55 @@
+Age,Recommended Treatment/Procedure,ICD Code,Medical Specialty,Transcription
+65,stress test and further cardiac evaluation,I20.9,Cardiology,A 65-year-old male presents with chest pain on exertion. The cardiologist recommends a stress test and further cardiac evaluation.
+58,ECG and 24-hour Holter monitoring,I49.9,Cardiology,A 58-year-old woman reports intermittent palpitations. The physician recommends an ECG and 24-hour Holter monitoring.
+72,echocardiogram and medication adjustment,I50.9,Cardiology,A 72-year-old male has shortness of breath and swelling in both legs. The doctor recommends an echocardiogram and medication adjustment.
+49,lipid management and lifestyle changes,E78.5,Cardiology,A 49-year-old patient has elevated cholesterol and a family history of heart disease. The physician recommends lipid management and lifestyle changes.
+61,ambulatory blood pressure monitoring,I10,Cardiology,A 61-year-old woman has persistent hypertension despite medication. The cardiologist recommends ambulatory blood pressure monitoring.
+54,coronary CT angiography,I20.9,Cardiology,A 54-year-old man has recurring chest discomfort. The cardiologist recommends coronary CT angiography.
+67,evaluation for atrial fibrillation and an ECG,I48.91,Cardiology,A 67-year-old patient has an irregular heartbeat. The doctor recommends evaluation for atrial fibrillation and an ECG.
+45,cardiac event monitor,I47.9,Cardiology,A 45-year-old woman experiences dizziness and fainting episodes. The physician recommends a cardiac event monitor.
+70,echocardiogram and adjustment of heart failure therapy,I50.9,Cardiology,A 70-year-old man has worsening heart failure symptoms. The doctor recommends an echocardiogram and adjustment of heart failure therapy.
+Unknown,Exercise stress testing,I20.9,Cardiology,A patient complains of chest pressure during exercise. The cardiologist recommends exercise stress testing.
+42,Preventive migraine medication and headache tracking,G43.909,Neurology,A 42-year-old woman has recurrent migraine headaches. The neurologist recommends preventive migraine medication and headache tracking.
+68,brain MRI and neurological evaluation,G81.90,Neurology,A 68-year-old man has a recent episode of weakness affecting his right arm. The physician recommends brain MRI and neurological evaluation.
+35,nerve conduction studies,G57.9,Neurology,A 35-year-old patient reports numbness and tingling in both hands. The neurologist recommends nerve conduction studies.
+59,EEG and further seizure evaluation,G40.909,Neurology,A 59-year-old woman has episodes of loss of consciousness. The doctor recommends an EEG and further seizure evaluation.
+74,cognitive assessment and brain imaging,R41.3,Neurology,A 74-year-old man has progressive memory problems. The neurologist recommends cognitive assessment and brain imaging.
+31,Conservative treatment and headache diary monitoring,G44.2,Neurology,A 31-year-old woman reports frequent tension headaches. The physician recommends conservative treatment and headache diary monitoring.
+63,Evaluation for Parkinsonian symptoms,G20,Neurology,A 63-year-old patient has tremors and slowed movement. The neurologist recommends evaluation for Parkinsonian symptoms.
+47,lumbar spine MRI,M54.5,Neurology,A 47-year-old man has chronic lower back pain with leg weakness. The physician recommends lumbar spine MRI.
+56,vestibular and neurological evaluation,R42,Neurology,A 56-year-old woman has persistent dizziness and balance problems. The doctor recommends vestibular and neurological evaluation.
+0,migraine evaluation,G43.9,Neurology,A patient reports recurring episodes of visual disturbance followed by headache. The neurologist recommends migraine evaluation.
+28,MRI of the knee,M25.561,Orthopedics,A 28-year-old man injured his knee playing football. The orthopedic surgeon recommends an MRI of the knee.
+64,physical therapy and consideration of joint replacement,M17.9,Orthopedics,A 64-year-old woman has severe knee pain due to osteoarthritis. The doctor recommends physical therapy and consideration of joint replacement.
+39,shoulder imaging and physical therapy,M75.0,Orthopedics,A 39-year-old patient has shoulder pain after lifting heavy equipment. The physician recommends shoulder imaging and physical therapy.
+52,X-ray of the hip,M25.551,Orthopedics,A 52-year-old man has persistent hip pain. The orthopedic specialist recommends an X-ray of the hip.
+71,urgent hip X-ray and orthopedic assessment,S72.001A,Orthopedics,A 71-year-old woman has a suspected hip fracture after a fall. The doctor recommends urgent hip X-ray and orthopedic assessment.
+33,wrist radiographs,S62.9XXA,Orthopedics,A 33-year-old patient has wrist pain after a bicycle accident. The physician recommends wrist radiographs.
+46,cervical spine imaging and physical therapy,M54.2,Orthopedics,A 46-year-old man has chronic neck pain. The orthopedic specialist recommends cervical spine imaging and physical therapy.
+57,arthroscopic treatment,M23.2,Orthopedics,A 57-year-old woman has a torn meniscus confirmed by imaging. The surgeon recommends discussing arthroscopic treatment.
+41,physical therapy and ankle strengthening,M25.26,Orthopedics,A 41-year-old athlete has recurring ankle instability. The doctor recommends physical therapy and ankle strengthening.
+Unknown,physical therapy,M25.51,Orthopedics,A patient has persistent shoulder stiffness after an injury. The physician recommends physical therapy.
+23,topical acne treatment and skin care changes,L70.0,Dermatology,A 23-year-old woman has persistent facial acne. The dermatologist recommends topical acne treatment and skin care changes.
+36,skin biopsy,D22.9,Dermatology,A 36-year-old man has a changing mole on his back. The dermatologist recommends a skin biopsy.
+51,topical corticosteroid treatment,L30.9,Dermatology,A 51-year-old woman has an itchy rash on both arms. The doctor recommends topical corticosteroid treatment.
+29,moisturizer therapy and topical medication,L20.9,Dermatology,A 29-year-old patient has recurring eczema. The dermatologist recommends moisturizer therapy and topical medication.
+62,biopsy and pathology evaluation,D49.2,Dermatology,A 62-year-old man has a suspicious lesion on his scalp. The physician recommends biopsy and pathology evaluation.
+44,Topical therapy and consideration of phototherapy,L40.9,Dermatology,A 44-year-old woman has chronic psoriasis plaques. The dermatologist recommends topical therapy and consideration of phototherapy.
+19,dermatology follow-up and prescription acne therapy,L70.0,Dermatology,A 19-year-old patient has severe acne with scarring. The doctor recommends dermatology follow-up and prescription acne therapy.
+55,evaluation for actinic keratosis and possible cryotherapy,L57.0,Dermatology,A 55-year-old man has a persistent rough patch on his face. The dermatologist recommends evaluation for actinic keratosis and possible cryotherapy.
+0,Antihistamine therapy and allergy evaluation,L50.9,Dermatology,A patient has recurrent hives without an obvious trigger. The physician recommends antihistamine therapy and allergy evaluation.
+48,medicated shampoo and topical treatment,L29.9,Dermatology,A 48-year-old woman has a persistent itchy scalp. The dermatologist recommends medicated shampoo and topical treatment.
+50,upper endoscopy,K31.84,Gastroenterology,A 50-year-old man has recurring upper abdominal discomfort after meals. The gastroenterologist recommends upper endoscopy.
+34,colonoscopy and laboratory evaluation,K58.9,Gastroenterology,A 34-year-old woman has chronic diarrhea and abdominal pain. The physician recommends colonoscopy and laboratory evaluation.
+66,upper gastrointestinal endoscopy,K22.0,Gastroenterology,A 66-year-old patient has difficulty swallowing. The doctor recommends an upper gastrointestinal endoscopy.
+43,endoscopic evaluation,R12,Gastroenterology,A 43-year-old man has persistent acid reflux despite medication. The gastroenterologist recommends endoscopic evaluation.
+59,colonoscopy,K92.1,Gastroenterology,A 59-year-old woman has blood in her stool. The physician recommends colonoscopy.
+27,dietary assessment and gastrointestinal evaluation,R14.0,Gastroenterology,A 27-year-old patient has recurrent abdominal bloating and discomfort. The doctor recommends dietary assessment and gastrointestinal evaluation.
+61,Colonoscopy and imaging,R63.4,Gastroenterology,A 61-year-old man has unexplained weight loss and changes in bowel habits. The gastroenterologist recommends colonoscopy and imaging.
+45,abdominal ultrasound,K80.20,Gastroenterology,A 45-year-old woman has suspected gallstones with right upper abdominal pain. The physician recommends abdominal ultrasound.
+0,laboratory testing and possible upper endoscopy,R11.0,Gastroenterology,A patient has persistent nausea and upper abdominal pain. The doctor recommends laboratory testing and possible upper endoscopy.
+53,Further gastrointestinal evaluation,K59.00,Gastroenterology,A 53-year-old man has chronic constipation that has not improved with lifestyle changes. The physician recommends further gastrointestinal evaluation.
+7,pulmonary evaluation and an asthma management plan,J45.909,Pediatrics,A 7-year-old child has recurrent wheezing. The pediatrician recommends pulmonary evaluation and an asthma management plan.
+4,evaluation for an ear infection,H65.9,Pediatrics,A 4-year-old child has persistent ear pain and fever. The doctor recommends evaluation for an ear infection.
+10,developmental and behavioral assessment,F90.0,Pediatrics,A 10-year-old child has difficulty concentrating at school. The pediatrician recommends developmental and behavioral assessment.
+2,developmental evaluation and speech therapy assessment,F80.1,Pediatrics,A 2-year-old child has delayed speech development. The physician recommends a developmental evaluation and speech therapy assessment.

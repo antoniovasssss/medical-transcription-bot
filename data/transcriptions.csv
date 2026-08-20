@@ -1,0 +1,55 @@
+medical_specialty,transcription
+Cardiology,A 65-year-old male presents with chest pain on exertion. The cardiologist recommends a stress test and further cardiac evaluation.
+Cardiology,A 58-year-old woman reports intermittent palpitations. The physician recommends an ECG and 24-hour Holter monitoring.
+Cardiology,A 72-year-old male has shortness of breath and swelling in both legs. The doctor recommends an echocardiogram and medication adjustment.
+Cardiology,A 49-year-old patient has elevated cholesterol and a family history of heart disease. The physician recommends lipid management and lifestyle changes.
+Cardiology,A 61-year-old woman has persistent hypertension despite medication. The cardiologist recommends ambulatory blood pressure monitoring.
+Cardiology,A 54-year-old man has recurring chest discomfort. The cardiologist recommends coronary CT angiography.
+Cardiology,A 67-year-old patient has an irregular heartbeat. The doctor recommends evaluation for atrial fibrillation and an ECG.
+Cardiology,A 45-year-old woman experiences dizziness and fainting episodes. The physician recommends a cardiac event monitor.
+Cardiology,A 70-year-old man has worsening heart failure symptoms. The doctor recommends an echocardiogram and adjustment of heart failure therapy.
+Cardiology,A patient complains of chest pressure during exercise. The cardiologist recommends exercise stress testing.
+Neurology,A 42-year-old woman has recurrent migraine headaches. The neurologist recommends preventive migraine medication and headache tracking.
+Neurology,A 68-year-old man has a recent episode of weakness affecting his right arm. The physician recommends brain MRI and neurological evaluation.
+Neurology,A 35-year-old patient reports numbness and tingling in both hands. The neurologist recommends nerve conduction studies.
+Neurology,A 59-year-old woman has episodes of loss of consciousness. The doctor recommends an EEG and further seizure evaluation.
+Neurology,A 74-year-old man has progressive memory problems. The neurologist recommends cognitive assessment and brain imaging.
+Neurology,A 31-year-old woman reports frequent tension headaches. The physician recommends conservative treatment and headache diary monitoring.
+Neurology,A 63-year-old patient has tremors and slowed movement. The neurologist recommends evaluation for Parkinsonian symptoms.
+Neurology,A 47-year-old man has chronic lower back pain with leg weakness. The physician recommends lumbar spine MRI.
+Neurology,A 56-year-old woman has persistent dizziness and balance problems. The doctor recommends vestibular and neurological evaluation.
+Neurology,A patient reports recurring episodes of visual disturbance followed by headache. The neurologist recommends migraine evaluation.
+Orthopedics,A 28-year-old man injured his knee playing football. The orthopedic surgeon recommends an MRI of the knee.
+Orthopedics,A 64-year-old woman has severe knee pain due to osteoarthritis. The doctor recommends physical therapy and consideration of joint replacement.
+Orthopedics,A 39-year-old patient has shoulder pain after lifting heavy equipment. The physician recommends shoulder imaging and physical therapy.
+Orthopedics,A 52-year-old man has persistent hip pain. The orthopedic specialist recommends an X-ray of the hip.
+Orthopedics,A 71-year-old woman has a suspected hip fracture after a fall. The doctor recommends urgent hip X-ray and orthopedic assessment.
+Orthopedics,A 33-year-old patient has wrist pain after a bicycle accident. The physician recommends wrist radiographs.
+Orthopedics,A 46-year-old man has chronic neck pain. The orthopedic specialist recommends cervical spine imaging and physical therapy.
+Orthopedics,A 57-year-old woman has a torn meniscus confirmed by imaging. The surgeon recommends discussing arthroscopic treatment.
+Orthopedics,A 41-year-old athlete has recurring ankle instability. The doctor recommends physical therapy and ankle strengthening.
+Orthopedics,A patient has persistent shoulder stiffness after an injury. The physician recommends physical therapy.
+Dermatology,A 23-year-old woman has persistent facial acne. The dermatologist recommends topical acne treatment and skin care changes.
+Dermatology,A 36-year-old man has a changing mole on his back. The dermatologist recommends a skin biopsy.
+Dermatology,A 51-year-old woman has an itchy rash on both arms. The doctor recommends topical corticosteroid treatment.
+Dermatology,A 29-year-old patient has recurring eczema. The dermatologist recommends moisturizer therapy and topical medication.
+Dermatology,A 62-year-old man has a suspicious lesion on his scalp. The physician recommends biopsy and pathology evaluation.
+Dermatology,A 44-year-old woman has chronic psoriasis plaques. The dermatologist recommends topical therapy and consideration of phototherapy.
+Dermatology,A 19-year-old patient has severe acne with scarring. The doctor recommends dermatology follow-up and prescription acne therapy.
+Dermatology,A 55-year-old man has a persistent rough patch on his face. The dermatologist recommends evaluation for actinic keratosis and possible cryotherapy.
+Dermatology,A patient has recurrent hives without an obvious trigger. The physician recommends antihistamine therapy and allergy evaluation.
+Dermatology,A 48-year-old woman has a persistent itchy scalp. The dermatologist recommends medicated shampoo and topical treatment.
+Gastroenterology,A 50-year-old man has recurring upper abdominal discomfort after meals. The gastroenterologist recommends upper endoscopy.
+Gastroenterology,A 34-year-old woman has chronic diarrhea and abdominal pain. The physician recommends colonoscopy and laboratory evaluation.
+Gastroenterology,A 66-year-old patient has difficulty swallowing. The doctor recommends an upper gastrointestinal endoscopy.
+Gastroenterology,A 43-year-old man has persistent acid reflux despite medication. The gastroenterologist recommends endoscopic evaluation.
+Gastroenterology,A 59-year-old woman has blood in her stool. The physician recommends colonoscopy.
+Gastroenterology,A 27-year-old patient has recurrent abdominal bloating and discomfort. The doctor recommends dietary assessment and gastrointestinal evaluation.
+Gastroenterology,A 61-year-old man has unexplained weight loss and changes in bowel habits. The gastroenterologist recommends colonoscopy and imaging.
+Gastroenterology,A 45-year-old woman has suspected gallstones with right upper abdominal pain. The physician recommends abdominal ultrasound.
+Gastroenterology,A patient has persistent nausea and upper abdominal pain. The doctor recommends laboratory testing and possible upper endoscopy.
+Gastroenterology,A 53-year-old man has chronic constipation that has not improved with lifestyle changes. The physician recommends further gastrointestinal evaluation.
+Pediatrics,A 7-year-old child has recurrent wheezing. The pediatrician recommends pulmonary evaluation and an asthma management plan.
+Pediatrics,A 4-year-old child has persistent ear pain and fever. The doctor recommends evaluation for an ear infection.
+Pediatrics,A 10-year-old child has difficulty concentrating at school. The pediatrician recommends developmental and behavioral assessment.
+Pediatrics,A 2-year-old child has delayed speech development. The physician recommends a developmental evaluation and speech therapy assessment.
